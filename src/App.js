@@ -2,7 +2,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './App.css';
-//import Navbar1 from './Navbar1'; 
 //import { Link } from './react-router';
 
 function App() {
